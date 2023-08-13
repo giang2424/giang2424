@@ -11,7 +11,7 @@
 <h3 align="center">A student from Vietnam</h3>
 
 
-## <a href="https://emoji.gg/emoji/6069-devilish"><img src="https://emoji.gg/assets/emoji/6069-devilish.png" width="32px" height="32px" alt="devilish"></a> About me:
+## <a href="https://emoji.gg/emoji/8291-ohmygawd"><img src="https://emoji.gg/assets/emoji/68291-ohmygawd.png" width="32px" height="32px" alt="ohmygawd"></a> About me:
 
 My name is Nguyen Truong Giang. I'm a student in Telecommunications and Network major.
 - 🌱 I have experiences with ```C++``` ```Python```
