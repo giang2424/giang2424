@@ -1,5 +1,5 @@
 ![Github Banner](./banner.png)
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif"/>
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif"/>
 
 <h1 align="center">
   <b>Nguyen Truong Giang</b>
